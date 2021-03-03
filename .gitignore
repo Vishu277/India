@@ -1,32 +1,30 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="" content="">
+    <title>Personal website 🖥️💻</title>
+    
+  </head>
+  <body>
+    <center>
+    <h1 class="Welcome">Welcome to my Website🖥️💻</h1>
+    <h3 class="top"> I am <span>"Vishu Sagar"</span></h3>
+    <h1>About myself</h1>
+    <hr />
+    <p>Hello, I am Vishu Sagar. I am a Web developer. . I live in India capital Delhi 🇮🇳#4aecea. 
+    Thanks for your </p>
+    <br /><br />
+    <h1>Contact us</h1>
+    <div class="Info">
+      <b>Name:</b> Vishu Sagar.
+      <br />
+      <b>Email:</b> vishukarkardoma79@gmail.com
+      <br />
+      <b>DOB:</b> 01,Dec,2007
+      <br /><br />
+    </div>
+      
+      
+  </body>
+</html>
